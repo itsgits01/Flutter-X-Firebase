@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794039290970",
+    "project_id": "diff-auth",
+    "storage_bucket": "diff-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794039290970:android:d47fb295ca98ba32a55c63",
+        "android_client_info": {
+          "package_name": "com.example.google_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794039290970-jjlrlpa3o098plv3laj9d6l22kpl0ep7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE6P-YQ49DB_xkkcwECCVgZAwkumloLgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794039290970-jjlrlpa3o098plv3laj9d6l22kpl0ep7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
